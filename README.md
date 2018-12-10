@@ -3,7 +3,8 @@
 
 2. Create a diretory and name it "dataset"
 
--------------------------------- :3 ---------------------------------
+🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻
+
 1). dataDetail.py: learn details of dataset (optional)
 
 2). preprocessing_unbalanced.py and preprocessing_balanced.py: prepare data for training and testing, including noise removing and categorical features encoding.
@@ -15,3 +16,6 @@
 5). meta_binary_unbalanced.py and meta_binary_balanced.py: meta classifier using majority voting
 
 6). meta_multiclass_unbalanced.py and meta_multiclass_balanced.py: meta classifier using majority voting
+
+
+🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻🍻 :3
