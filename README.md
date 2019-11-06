@@ -1,4 +1,4 @@
-# Comparison-of-different-classifiers-for-anomaly-detection
+# Comparison-of-different-classifiers-for-anormaly-detection
 1. Link to dataset: https://www.kaggle.com/francoisxa/ds2ostraffictraces (Thanks FrancoisXA) and download file "MainSimulationAccessTraces.csv"
 
 2. Create a diretory and name it "dataset"
